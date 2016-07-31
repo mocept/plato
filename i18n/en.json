@@ -1,0 +1,19 @@
+{
+  "message": {
+    "plato": "{0}, The beginning is the most important part of the work."
+  },
+  "routes": {
+    "docs": "Documentation",
+    "about": "About",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "view": {
+    "home": {
+      "language": "Language",
+      "demo": "Demonstration",
+      "about": "About",
+      "latest_commits": "Latest Commits"
+    }
+  }
+}
